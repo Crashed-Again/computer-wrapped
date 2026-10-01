@@ -175,8 +175,6 @@ Your usage is turned into a computer personality such as:
 At the end of your Wrapped, you can generate a **1080 × 1920** image suitable for sharing as an Instagram Story.
 
 ## 📜 License
-
-Add your preferred license here.
 ```
 MIT License
 ```
